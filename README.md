@@ -60,7 +60,7 @@ The objective can be broken down into the following detailed components:
 |-----------|-------------|
 | `SuperStore Sales DataSet.xlsx` | Raw dataset used for analysis and dashboarding |
 | `SuperStore Sales Dashboard.pbix` | Power BI file with visuals, KPIs, and forecasts |
-| `image.png` | Screenshot explaining the project's detailed components |
+| `images` | Screenshots explaining the project's detailed components |
 ---
 
 ⚠️ **Note**: This dashboard is part of a **data analysis project** and is not based on live or real-time business data.
