@@ -18,7 +18,7 @@ The objective can be broken down into the following detailed components:
 
 4. **Actionable Insights and Recommendations**: The end goal is to deliver insights that can drive strategic decisions, supporting the supermarket's goals for growth, efficiency, and customer satisfaction.
 
-![Project Description](image.png)
+![SuperStore Dashboard](images/dashboard.png)
 
 ---
 
@@ -53,13 +53,6 @@ The objective can be broken down into the following detailed components:
 - **COD dominates (43%)** as payment method
 - **15-Day Sales Forecast** predicts ~3K daily sales
 
-### 📌 Recommendations:
-- Boost digital payments & trust
-- Target South region for growth
-- Explore Home Office segment potential
-- Strategically promote faster shipping options
-- Focus on underperforming states with regional campaigns
-
 
 ---
 
@@ -70,16 +63,6 @@ The objective can be broken down into the following detailed components:
 | `SuperStore Sales DataSet.xlsx` | Raw dataset used for analysis and dashboarding |
 | `SuperStore Sales Dashboard.pbix` | Power BI file with visuals, KPIs, and forecasts |
 | `image.png` | Screenshot explaining the project's detailed components |
-
----
-
-## 📈 Insights & Recommendations
-
-- Focus more on high-performing regions and sub-categories.
-- Review return orders for patterns and possible improvements.
-- Optimize shipping methods and product bundling based on segment-wise analysis.
-- Use forecasts to manage inventory and resource allocation effectively.
-
 ---
 
 ⚠️ **Note**: This dashboard is part of a **data analysis project** and is not based on live or real-time business data.
