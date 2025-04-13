@@ -18,7 +18,8 @@ The objective can be broken down into the following detailed components:
 
 4. **Actionable Insights and Recommendations**: The end goal is to deliver insights that can drive strategic decisions, supporting the supermarket's goals for growth, efficiency, and customer satisfaction.
 
-![SuperStore Dashboard](images/dashboard.png)
+![SuperStore Dashboard](images/dashboard preview.png)
+![SuperStore Dashboard](images/dashboard preview2.png)
 
 ---
 
