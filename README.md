@@ -30,27 +30,14 @@ The raw dataset underwent the following cleaning and transformation steps using 
 
 These steps ensured that the data was ready for accurate visualization and forecasting.
 
-
-## 📊 Key Metrics & Insights
+## 📊 Dashboard Visualizations
+The dashboard includes the following components:
+### 📊 Key Metrics & Insights
 
 - **Total Sales**: $1.6M
 - **Total Profit**: $175K
 - **Total Orders**: 22K
 - **Avg. Shipping Time**: 4 days
-
-### 🔍 Detailed Insights:
-- **Top Region**: West (33% of sales)
-- **Top State**: California ($340K sales)
-- **Top Segment**: Consumer (48%)
-- **Top Category**: Office Supplies ($640K)
-- **Top Sub-Category**: Phones ($200K)
-- **Top Ship Mode**: Standard Class (0.33M)
-
-### 📈 Trend Observations:
-- **Sales peak in Nov-Dec** (holiday season)
-- **Profit fluctuates**, not always aligned with high sales
-- **COD dominates (43%)** as payment method
-- **15-Day Sales Forecast** predicts ~3K daily sales
 
 ## 📈 Charts & Insights
 
@@ -67,11 +54,22 @@ These steps ensured that the data was ready for accurate visualization and forec
 | **Forecast Line Chart**  | **15-Day Sales Forecast**              | Predicts a stable trend with around **$3K daily sales** in the upcoming period |
 | **Map Chart**            | **Sales & Profit by State**            | Highlights **California** and **New York** as the most profitable states based on sales distribution |
 ## 🔃 Interactive Filters
-- **Region Filter**: Enables dynamic filtering for the following regions:  
-  - Central  
-  - East  
-  - South  
-  - West  
+- **Region Filter**: central , East , West , South
+  
+### 🔍 Detailed Insights:
+- **Top Region**: West (33% of sales)
+- **Top State**: California ($340K sales)
+- **Top Segment**: Consumer (48%)
+- **Top Category**: Office Supplies ($640K)
+- **Top Sub-Category**: Phones ($200K)
+- **Top Ship Mode**: Standard Class (0.33M)
+
+### 📈 Trend Observations:
+- **Sales peak in Nov-Dec** (holiday season)
+- **Profit fluctuates**, not always aligned with high sales
+- **COD dominates (43%)** as payment method
+- **15-Day Sales Forecast** predicts ~3K daily sales
+
 
 This allows users to explore insights specific to each region and analyze performance trends more effectively.
 ⚠️ **Note**: This dashboard is part of a **data analysis project** and is not based on live or real-time business data.
