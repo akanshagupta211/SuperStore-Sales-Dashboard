@@ -39,7 +39,7 @@ The dashboard includes the following components:
 - **Total Orders**: 22K
 - **Avg. Shipping Time**: 4 days
 
-## 📈 Charts & Insights
+### 📈 Charts & Insights
 
 | 📊 **Chart Type**         | 📌 **Graph Name**                      | 💡 **Insight** |
 |--------------------------|----------------------------------------|----------------|
@@ -53,7 +53,7 @@ The dashboard includes the following components:
 | **Area Chart**           | **Profit by Month**                    | Profit trends follow similar seasonality, peaking in **Q4** |
 | **Forecast Line Chart**  | **15-Day Sales Forecast**              | Predicts a stable trend with around **$3K daily sales** in the upcoming period |
 | **Map Chart**            | **Sales & Profit by State**            | Highlights **California** and **New York** as the most profitable states based on sales distribution |
-## 🔃 Interactive Filters
+### 🔃 Interactive Filters
 - **Region Filter**: central , East , West , South
   
 ### 🔍 Detailed Insights:
@@ -70,6 +70,37 @@ The dashboard includes the following components:
 - **COD dominates (43%)** as payment method
 - **15-Day Sales Forecast** predicts ~3K daily sales
 
+## 🖼️ Screenshots of the Dashboard
+1. Overview of the Dashboard 
+![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/Overview.png)
+2. Central Region
+   ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/central%20region.png)
+3. Western Region
+ ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/South%20Region.png)
+4. southern region
+   ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/West%20Region.png)
+5. Eastern region
+   ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/East%20Region.png)
+6. 15-Day Forecast
+   ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/15-days%20Sales%20forecasting.png)
+> Screenshots is stored in `Visualizations(screenshots)/` folder for reference.
+## 🚀 How to Use
+1. Download the PBIX file from this repo.
+2. Open in Power BI Desktop.
+3. Interact with the filters, slicers, and visualizations to explore the insights.
+## 📌 Conclusion
+This HR Dashboard enables organizations to:
+- Identify key drivers of employee attrition
+- Monitor job satisfaction across roles
+- Segment employees by salary, age, and tenure for better engagement strategies
+
+It helps HR teams make data-driven decisions and enhance employee retention programs.
+
+## 📫 Contact
+For queries, suggestions, or collaboration opportunities, feel free to connect via [LinkedIn](#www.linkedin.com/in/akansha-gupta-b649a2216) or [Email Me](mailto:akanshabkg@gmail.com
+).
+
+---
 
 This allows users to explore insights specific to each region and analyze performance trends more effectively.
 ⚠️ **Note**: This dashboard is part of a **data analysis project** and is not based on live or real-time business data.
