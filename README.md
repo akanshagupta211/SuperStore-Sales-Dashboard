@@ -52,55 +52,6 @@ These steps ensured that the data was ready for accurate visualization and forec
 - **COD dominates (43%)** as payment method
 - **15-Day Sales Forecast** predicts ~3K daily sales
 
-
----
-
-## 📂 Files in this Repository
-
-| File Name | Description |
-|-----------|-------------|
-| `SuperStore Sales DataSet.xlsx` | Raw dataset used for analysis and dashboarding |
-| `SuperStore Sales Dashboard.pbix` | Power BI file with visuals, KPIs, and forecasts |
-| `images` | Screenshots explaining the project's detailed components |
----
-
-⚠️ **Note**: This dashboard is part of a **data analysis project** and is not based on live or real-time business data.
-
-
-
-## 📁 Dataset
-The dataset used includes information on:
-
-- **Order Details**: Order ID, Order Date, Ship Date, Ship Mode  
-- **Customer Information**: Customer Name, Segment, Region  
-- **Product Details**: Category, Sub-Category, Product Name  
-- **Sales Metrics**: Sales, Quantity, Discount, Profit
-
-These fields are used to generate key metrics, forecast future sales, and uncover actionable business insights.
-
----
-
-## 🛠️ Tools Used
-- **Power BI** – for data visualization and dashboard development  
-- **Power Query** – for data cleaning and transformation  
-- **DAX** – for creating calculated columns, KPIs, and time-based measures
-
----
-
-## 🧹 Data Cleaning & Transformation (Power Query)
-The raw dataset underwent the following cleaning and transformation steps using Power Query:
-
-- Removed duplicates and corrected inconsistent date formats
-- Filled missing values in critical columns
-- Converted data types to appropriate formats (e.g., dates, numbers)
-- Created new columns for time-based analysis (Year, Month, Week)
-- Filtered irrelevant or erroneous entries
-- Merged & structured tables for efficient data modeling
-
-These steps ensured that the data was ready for accurate visualization and forecasting.
-
----
-
 ## 📈 Charts & Insights
 
 | 📊 **Chart Type**         | 📌 **Graph Name**                      | 💡 **Insight** |
@@ -126,3 +77,4 @@ These steps ensured that the data was ready for accurate visualization and forec
   - West  
 
 This allows users to explore insights specific to each region and analyze performance trends more effectively.
+⚠️ **Note**: This dashboard is part of a **data analysis project** and is not based on live or real-time business data.
