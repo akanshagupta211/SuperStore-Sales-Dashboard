@@ -66,9 +66,6 @@ These steps ensured that the data was ready for accurate visualization and forec
 | **Area Chart**           | **Profit by Month**                    | Profit trends follow similar seasonality, peaking in **Q4** |
 | **Forecast Line Chart**  | **15-Day Sales Forecast**              | Predicts a stable trend with around **$3K daily sales** in the upcoming period |
 | **Map Chart**            | **Sales & Profit by State**            | Highlights **California** and **New York** as the most profitable states based on sales distribution |
-
----
-
 ## 🔃 Interactive Filters
 - **Region Filter**: Enables dynamic filtering for the following regions:  
   - Central  
