@@ -1,34 +1,35 @@
-# 🛒 SuperStore Sales Dashboard with Forecasting 📈
-
+# 🛒 SuperStore Sales Dashboard with Forecasting - Power BI 
 ## 📌 Objective
+This repository showcases an interactive SuperStore Sales Dashboard developed using Power BI. The primary goal is to deliver insightful visualizations and a 15-day sales forecast using time series analysis. This dashboard empowers retail decision-makers to monitor sales trends, identify profitable areas, and optimize strategies for business growth.
 
-The objective of this project is to contribute to the success of a business by utilizing data analysis techniques—especially focusing on time series analysis—to provide valuable insights and accurate sales forecasting. The ultimate goal is to support business decision-making and growth through data-driven insights.
+To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
----
+The project dives deep into sales data across various dimensions such as region, category, shipping mode, and customer segment—ultimately helping stakeholders make data-driven decisions.
+## 📁 Dataset
+The dataset used includes information on:
 
-## 📄 Description
+- **Order Details**: Order ID, Order Date, Ship Date, Ship Mode  
+- **Customer Information**: Customer Name, Segment, Region  
+- **Product Details**: Category, Sub-Category, Product Name  
+- **Sales Metrics**: Sales, Quantity, Discount, Profit
 
-The objective can be broken down into the following detailed components:
+These fields are used to generate key metrics, forecast future sales, and uncover actionable business insights.
+## 🛠️ Tools Used
+- **Power BI** – for data visualization and dashboard development.
+- **Power Query** – for data cleaning and transformation.
+- **DAX** – for creating calculated columns, KPIs, and time-based measures.
+## 🧹 Data Cleaning & Transformation (Power Query)
+The raw dataset underwent the following cleaning and transformation steps using Power Query:
 
-1. **Dashboard Creation**: Identify the KPIs, design an intuitive and visually appealing dashboard, and add interactive visualizations and filters to allow users to explore the data at various levels of granularity.
+- Removed duplicates and corrected inconsistent date formats
+- Filled missing values in critical columns
+- Converted data types to appropriate formats (e.g., dates, numbers)
+- Created new columns for time-based analysis (Year, Month, Week)
+- Filtered irrelevant or erroneous entries
+- Merged & structured tables for efficient data modeling
 
-2. **Data Analysis**: Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualizations and charts.
+These steps ensured that the data was ready for accurate visualization and forecasting.
 
-3. **Sales Forecasting**: Leverage historical data and apply time series models to generate sales forecasts for the next 15 days.
-
-4. **Actionable Insights and Recommendations**: The end goal is to deliver insights that can drive strategic decisions, supporting the supermarket's goals for growth, efficiency, and customer satisfaction.
-
----
-
-## 🧠 Steps Followed
-
-1. 📍 **Defined Project Objective**  
-2. 🧹 **Data Cleaning** – Handled missing values, removed irrelevant columns, and corrected data types.  
-3. 🧮 **DAX Queries** – Used DAX functions to derive KPIs.  
-4. 📊 **Dashboard Creation** – Designed an interactive Power BI dashboard with slicers, filters, and visual summaries.  
-5. ⏳ **Sales Forecasting** – Performed 15-day sales forecasting using Power BI’s time series modeling features.
-
----
 
 ## 📊 Key Metrics & Insights
 
@@ -65,3 +66,63 @@ The objective can be broken down into the following detailed components:
 
 ⚠️ **Note**: This dashboard is part of a **data analysis project** and is not based on live or real-time business data.
 
+
+
+## 📁 Dataset
+The dataset used includes information on:
+
+- **Order Details**: Order ID, Order Date, Ship Date, Ship Mode  
+- **Customer Information**: Customer Name, Segment, Region  
+- **Product Details**: Category, Sub-Category, Product Name  
+- **Sales Metrics**: Sales, Quantity, Discount, Profit
+
+These fields are used to generate key metrics, forecast future sales, and uncover actionable business insights.
+
+---
+
+## 🛠️ Tools Used
+- **Power BI** – for data visualization and dashboard development  
+- **Power Query** – for data cleaning and transformation  
+- **DAX** – for creating calculated columns, KPIs, and time-based measures
+
+---
+
+## 🧹 Data Cleaning & Transformation (Power Query)
+The raw dataset underwent the following cleaning and transformation steps using Power Query:
+
+- Removed duplicates and corrected inconsistent date formats
+- Filled missing values in critical columns
+- Converted data types to appropriate formats (e.g., dates, numbers)
+- Created new columns for time-based analysis (Year, Month, Week)
+- Filtered irrelevant or erroneous entries
+- Merged & structured tables for efficient data modeling
+
+These steps ensured that the data was ready for accurate visualization and forecasting.
+
+---
+
+## 📈 Charts & Insights
+
+| 📊 **Chart Type**         | 📌 **Graph Name**                      | 💡 **Insight** |
+|--------------------------|----------------------------------------|----------------|
+| **Donut Chart**          | **Payment Mode Distribution**          | 43% of the customers prefer **Cash on Delivery (COD)** as their payment method |
+| **Donut Chart**          | **Sales by Region**                    | **West** region accounts for the highest sales at **33%** |
+| **Donut Chart**          | **Sales by Segment**                   | **Consumer segment** dominates with nearly **48%** of total sales |
+| **Bar Chart**            | **Sales by Category**                  | **Office Supplies** leads with sales of **$640K**, though profit margins vary |
+| **Column Chart**         | **Sales by Sub-Category**              | **Phones** sub-category tops the list with over **$173K** in sales |
+| **Bar Chart**            | **Sales by Ship Mode**                 | **Standard Class** shipping is most used, generating around **$33K** in sales |
+| **Area Chart**           | **Sales by Month**                     | Seasonal peak observed during **November–December**, aligning with holiday sales |
+| **Area Chart**           | **Profit by Month**                    | Profit trends follow similar seasonality, peaking in **Q4** |
+| **Forecast Line Chart**  | **15-Day Sales Forecast**              | Predicts a stable trend with around **$3K daily sales** in the upcoming period |
+| **Map Chart**            | **Sales & Profit by State**            | Highlights **California** and **New York** as the most profitable states based on sales distribution |
+
+---
+
+## 🔃 Interactive Filters
+- **Region Filter**: Enables dynamic filtering for the following regions:  
+  - Central  
+  - East  
+  - South  
+  - West  
+
+This allows users to explore insights specific to each region and analyze performance trends more effectively.
