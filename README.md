@@ -64,27 +64,27 @@ The dashboard includes the following components:
 - **Region Filter**: central , East , West , South
 
 ## 🖼️ Screenshots of the Dashboard
-1. Overview of the Dashboard 
-![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/Overview.png)
-2. Central Region
+1. **Overview of the Dashboard** 
+   ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/Overview.png)
+2. **Central Region**
    ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/Central%20Region.png)
-3. Western Region
- ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/Western%20Region.png)
-4. southern region
+3. **Western Region**
+  ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/Western%20Region.png)
+4. **southern region**
    ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/Southern%20Region.png)
-5. Eastern region
+5. **Eastern region**
    ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/Eastern%20Region.png)
-6. 15-Day Forecast
+6. **15-Day Forecast**
    ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/15-days%20Sales%20forecasting.png)
 > Screenshots is stored in `Visualizations(screenshots)/` folder for reference.
 
 ## 📌 Conclusion
 The SuperStore Sales Dashboard serves as a powerful analytical tool, enabling data-driven decisions through clear insights into sales performance, customer behavior, and upcoming trends. It helps businesses optimize strategies and improve overall performance.
-- **Top Region & State**: West region and California lead in sales.
-- **High-Performing Areas**: Office Supplies and Phones are the top category and sub-category.
-- **Customer & Delivery Trends**: Consumer segment and Standard Class ship mode dominate sales.
-- **Sales & Profit Trends**: Peaks in Nov–Dec (holiday season); profit spikes in Apr 2019 and Dec 2020.
-- **Forecast Insight**: 15-day prediction shows steady sales of around 3K per day.
+1. **Top Region & State**: West region and California lead in sales.
+2. **High-Performing Areas**: Office Supplies and Phones are the top category and sub-category.
+3. **Customer & Delivery Trends**: Consumer segment and Standard Class ship mode dominate sales.
+4. **Sales & Profit Trends**: Peaks in Nov–Dec (holiday season); profit spikes in Apr 2019 and Dec 2020.
+5. **Forecast Insight**: 15-day prediction shows steady sales of around 3K per day.
 
 ## 🚀 How to Use
 1. Download the PBIX file from this repo.
