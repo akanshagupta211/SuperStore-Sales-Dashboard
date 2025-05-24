@@ -59,7 +59,8 @@ The dashboard includes the following components:
 | **Map Chart**            | **Sales & Profit by State**            | Highlights **California** and **New York** as the most profitable states based on sales distribution. |
 |**Horizontal Bar Chart**  | **Sales by State**	                    |**California** leads with **~$340K** in sales, followed by New York and Texas.|
 | **Forecast Line Chart**  | **15-Day Sales Forecast**              | Predicts a stable trend with around **$3K daily sales** in the upcoming period. |
-###🎯 Interactive Filters : 
+
+### 🎯 Interactive Filters : 
 - **Region Filter**: central , East , West , South
 
 ## 🖼️ Screenshots of the Dashboard
@@ -77,11 +78,6 @@ The dashboard includes the following components:
    ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/15-days%20Sales%20forecasting.png)
 > Screenshots is stored in `Visualizations(screenshots)/` folder for reference.
 
-## 🚀 How to Use
-1. Download the PBIX file from this repo.
-2. Open in Power BI Desktop.
-3. Interact with the filters, slicers, and visualizations to explore the insights.
-   
 ## 📌 Conclusion
 The SuperStore Sales Dashboard serves as a powerful analytical tool, enabling data-driven decisions through clear insights into sales performance, customer behavior, and upcoming trends. It helps businesses optimize strategies and improve overall performance.
 - **Top Region & State**: West region and California lead in sales.
@@ -89,6 +85,12 @@ The SuperStore Sales Dashboard serves as a powerful analytical tool, enabling da
 - **Customer & Delivery Trends**: Consumer segment and Standard Class ship mode dominate sales.
 - **Sales & Profit Trends**: Peaks in Nov–Dec (holiday season); profit spikes in Apr 2019 and Dec 2020.
 - **Forecast Insight**: 15-day prediction shows steady sales of around 3K per day.
+
+## 🚀 How to Use
+1. Download the PBIX file from this repo.
+2. Open in Power BI Desktop.
+3. Interact with the filters, slicers, and visualizations to explore the insights.
+   
 
 ## 📫 Contact
 For queries, suggestions, or collaboration opportunities, feel free to connect via [LinkedIn](#www.linkedin.com/in/akansha-gupta-b649a2216) or [Email Me](mailto:akanshabkg@gmail.com
