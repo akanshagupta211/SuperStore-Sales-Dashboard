@@ -46,7 +46,7 @@ The dashboard includes the following components:
   
 ### 📈 Charts & Insights
 
-| 📊 **Chart Type**         | 📌 **Graph Name**                      | 💡 **Insight** |
+|  **Chart Type**          |  **Graph Name**                         |  **Insight** |
 |--------------------------|----------------------------------------|----------------|
 | **Donut Chart**          | **Sales by Payment Mode**              | 43% of the customers prefer **Cash on Delivery (COD)** as their payment method. |
 | **Donut Chart**          | **Sales by Region**                    | **West** region accounts for the highest sales at **33%**.|
