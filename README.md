@@ -74,15 +74,15 @@ The dashboard includes the following components:
 1. Overview of the Dashboard 
 ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/Overview.png)
 2. Central Region
-   ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/central%20region.png)
+   ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/Central%20Region.png)
 3. Western Region
- ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/South%20Region.png)
+ ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/Western%20Region.png)
 4. southern region
-   ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/West%20Region.png)
+   ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/Southern%20Region.png)
 5. Eastern region
-   ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/East%20Region.png)
+   ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/Eastern%20Region.png)
 6. 15-Day Forecast
-   ![Overview](https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/15-days%20Sales%20forecasting.png)
+   ![Overview]https://github.com/akanshagupta211/SuperStore-Sales-Dashboard/blob/main/Visualizations(screenshots)/15-days%20Sales%20forecasting.png)
 > Screenshots is stored in `Visualizations(screenshots)/` folder for reference.
 ## 🚀 How to Use
 1. Download the PBIX file from this repo.
